@@ -11,5 +11,9 @@
 <p>EA Sports</p>
 <h1><strong>MOTIVATION- PREDICITIVE MODEL</strong></h1>
 <p>The dataset can be used to develop a statistical model that will be able to predict, as accurately as possible, the FIFA 20 rating of a player using various physical and technical attributes of a footballer. The aim can be to find the model with the least out of sample performance or the least mean square error (MSE) using the tree-based Random Forest technique or any other ML tool. The most powerful player characteristics identified through the statistical analysis can help decipher the common misunderstanding about the player’s rating in FIFA and the beautiful game in general.</p>
-
+<h1><strong>TENSORBOARD VISUALIZATIONS </strong></h1>
+<h3><strong>EPOCH LOSS </strong></h3>
+<img src="images/epoch_loss.jpg">
+<h3><strong>Computational Graph </strong></h3>
+<img src="images/graph.jpg">
 
